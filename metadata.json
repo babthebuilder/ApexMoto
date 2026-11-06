@@ -1,0 +1,6 @@
+{
+  "name": "ApexMoto - Precision Care & Telemetry",
+  "description": "Next-generation precision automotive diagnostics, real-time workshop bay telematics, and digital vehicle fleet maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
